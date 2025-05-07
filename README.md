@@ -44,12 +44,9 @@ This project aims to develop a **Large Language Model (LLM)-based anomaly detect
 - **As a project manager**, I want to document the project and present the findings.
 
 ## Technology Stack
-- **Programming Languages**: Python, JavaScript
-- **Machine Learning Frameworks**: TensorFlow
-- **Cloud Platforms**: ?
-- **Database**: ?
-- **Visualization**: ?
-- **Security Tools**: Snort, Suricata
+- **Programming Languages**: Python
+- **Machine Learning Frameworks**: Jupyter Notebook
+- **API: Uvicorn
 
 ##  Setup & Installation
 ### **Prerequisites**
@@ -57,45 +54,11 @@ This project aims to develop a **Large Language Model (LLM)-based anomaly detect
 - Virtual environment (optional but recommended)
 - GitHub repository access
 
-### **Installation Steps**
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/LLM-Network-Anomaly-Detection.git
-cd LLM-Network-Anomaly-Detection
-
-# Set up a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-1. **Run Data Collection & Preprocessing**
-```bash
-python data_preprocessing.py
-```
-2. **Train the Anomaly Detection Model**
-```bash
-python model_training.py
-```
-3. **Deploy the System**
-```bash
-python deploy.py
-```
-
 ## Contributing
 1. Fork this repository
 2. Create a feature branch (`git checkout -b feature-branch`)
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request 
-
-## License
-?
-
-
 ---
 
