@@ -10,9 +10,8 @@ This project aims to develop a **Large Language Model (LLM)-based anomaly detect
 - [Milestones & User Stories](#milestones--user-stories)
 - [Technology Stack](#technology-stack)
 - [Setup & Installation](#setup--installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Real-time network traffic monitoring  
