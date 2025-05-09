@@ -45,7 +45,7 @@ This project aims to develop a **Large Language Model (LLM)-based anomaly detect
 ## Technology Stack
 - **Programming Languages**: Python
 - **Machine Learning Frameworks**: Jupyter Notebook
-- API: Uvicorn
+- API: Uvicorn & FastAPI
 
 ##  Setup & Installation
 ### **Prerequisites**
